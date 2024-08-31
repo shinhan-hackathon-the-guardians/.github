@@ -22,9 +22,13 @@
 **팀명: 더 가디언즈**
 
 👑 **안현욱**(팀장): BE - 결제 감지, 그룹 시스템
+
 👨‍💻 **이한주**: BE - 학습 시스템,  AI 챗봇
+
 👨‍💻 **이준용**: BE - 인증/인가,  알림 시스템
+
 🎨 **현경찬**: FE - 알림, 챗봇, 메인 페이지
+
 🎨 **조윤정**: FE - 그룹, 설정, 시험 페이지
 
 ## 주요 기능
@@ -71,21 +75,61 @@
     ```
     
 2. 백엔드 설정 및 실행
+   <details>
+     <summary>
+       .env
+     </summary>
+      # DB <br>
+      MYSQL_HOST=${mysql host} <br>
+      MYSQL_PORT=${mysql port} <br>
+      MYSQL_DB=${mysql db name} <br>
+      MYSQL_USERNAME=${mysql username} <br>
+      MYSQL_PASSWORD=${mysql password} <br>
+      # Firebase <br>
+      FIREBASE_ADMIN_KEY_DIR=${firebase admin sdk path} <br>
+      FIREBASE_ADMIN_KEY_NAME=${firebase admin sdk name} <br>
+      FIREBASE_APP_NAME=${firebase app name} <br>
+      # API KEY <br>
+      API_KEY=${api key} <br>
+      USER_KEY=${user api key} <br>
+      # 1원 인증 API KEY <br>
+      COMPANY_AUTH_NAME=${custom auth name} <br>
+      # Gemini KEY <br>
+      PROJECT_ID=${google project id} <br>
+      LOCATION=${google project location} <br>
+      GOOGLE_APPLICATION_CREDENTIALS=${google app credentials} <br>
+      # Redis <br>
+      REDIS_HOST=${redis host} <br>
+      REDIS_PORT=${redis port} <br>
+      REDIS_PASSWORD=${redis password} <br>
+      # MongoDB <br>
+      MONGO_HOST=${mongo host} <br>
+      MONGO_PORT=${mongo port} <br>
+      MONGO_DATABASE=${mongo db name} <br>
+   </details>
+   
     
     ```
+    # local
     cd backend
-    ./gradlew build
-    ./gradlew bootRun
+    ./gradlew clean build -x test
+    java -jar ${jar file}
     
+    
+    # docker
+    docker run --rm -it -d -p 8080:8080 -v ${local conf path}:${container conf path} --env-file ${.env file path}/.env --name guardian-backend yijy001/guardian-backend
     ```
     
-3. 프론트엔드 설정 및 실행
+4. 프론트엔드 설정 및 실행
     
     ```
+    # local
     cd frontend
     npm install
     npm start
-    
+
+    # docker
+    docker run --rm -it -d -p 80:80 -v ${local conf path}/default.conf:${container conf path}/default.conf yijy001/guardian-frontend
     ```
     
 
