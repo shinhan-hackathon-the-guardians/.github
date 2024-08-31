@@ -48,12 +48,16 @@
 
 
 ## 시연 사진
-![image](https://github.com/user-attachments/assets/622f254f-dc90-4c0b-8d76-10ef9a2ba37f)
-![image](https://github.com/user-attachments/assets/5bdf4201-06f9-42eb-9030-8c7f3c33c0f6)
-![image](https://github.com/user-attachments/assets/58511b06-8820-4f5c-a3f3-bd835e4ff92f)
-![image](https://github.com/user-attachments/assets/b929480a-3535-49dd-adcb-0ac5d69b90de)
-![image](https://github.com/user-attachments/assets/85cd8744-00bd-4054-a1f9-ba71d300e709)
-![image](https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/622f254f-dc90-4c0b-8d76-10ef9a2ba37f" width="200" alt="스플래시 화면">
+<img src="https://github.com/user-attachments/assets/58511b06-8820-4f5c-a3f3-bd835e4ff92f" width="200" alt="화면 3">
+<img src="https://github.com/user-attachments/assets/b929480a-3535-49dd-adcb-0ac5d69b90de" width="200" alt="화면 4">
+<img src="https://github.com/user-attachments/assets/85cd8744-00bd-4054-a1f9-ba71d300e709" width="200" alt="그룹원 추가 화면">
+<img src="https://github.com/user-attachments/assets/a87f4c49-9df0-477c-973a-dbf6bd4f5e84" width="200" alt="화면 6">
+<img src="https://github.com/user-attachments/assets/16b05da3-026b-4bd1-bbe0-4023e1e1b37b" width="200" alt="화면 7">
+<img src="https://github.com/user-attachments/assets/cabea35e-8514-4077-a117-21b8686b056a" width="200" alt="화면 8">
+<img src="https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d" width="200" alt="화면 9">
+</div>
 
 
 ## 설치 및 실행 방법
