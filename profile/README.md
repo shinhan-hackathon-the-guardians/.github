@@ -44,6 +44,7 @@
 - **Notification**: Firebase Cloud Messaging
 
 ## 아키텍처
+![image](https://github.com/user-attachments/assets/d1cd61df-fd93-49bc-9918-b8f0fa96ee4c)
 
 
 ## 시연 사진
