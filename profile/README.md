@@ -48,14 +48,12 @@
 
 
 ## 시연 사진
-- 스플래시
 ![image](https://github.com/user-attachments/assets/622f254f-dc90-4c0b-8d76-10ef9a2ba37f)
-
-- 로그인
 ![image](https://github.com/user-attachments/assets/5bdf4201-06f9-42eb-9030-8c7f3c33c0f6)
-
-- 그룹원 추가
+![image](https://github.com/user-attachments/assets/58511b06-8820-4f5c-a3f3-bd835e4ff92f)
+![image](https://github.com/user-attachments/assets/b929480a-3535-49dd-adcb-0ac5d69b90de)
 ![image](https://github.com/user-attachments/assets/85cd8744-00bd-4054-a1f9-ba71d300e709)
+![image](https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d)
 
 
 ## 설치 및 실행 방법
