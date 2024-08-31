@@ -1,5 +1,5 @@
 # 신한: 더 패밀리 가디언 (가족 금융 안심 서비스)
-![image](https://github.com/user-attachments/assets/e579e894-22cf-4615-b8b5-6e7d30577f48)
+![image](https://github.com/user-attachments/assets/5de55fa0-b9c5-4575-bdfe-58df58494b56)
 
 ## 📌 목차
 
