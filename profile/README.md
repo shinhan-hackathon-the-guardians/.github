@@ -63,7 +63,7 @@
 <img src="https://github.com/user-attachments/assets/16b05da3-026b-4bd1-bbe0-4023e1e1b37b" width="200" alt="화면 7">
 <img src="https://github.com/user-attachments/assets/cabea35e-8514-4077-a117-21b8686b056a" width="200" alt="화면 8">
 <img src="https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d" width="200" alt="화면 9">
-<img src="https://github.com/user-attachments/assets/e9ff0177-2e43-427d-83a4-6ec291845923" width="200" alt="화면 결제 화면">
+<img src="https://github.com/user-attachments/assets/2eab5f55-1845-46b8-9fb3-1f5bbf38c343" width="200" alt="화면 결제 화면">
 </div>
 
 
