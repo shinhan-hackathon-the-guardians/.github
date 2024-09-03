@@ -64,8 +64,8 @@
 <img src="https://github.com/user-attachments/assets/cabea35e-8514-4077-a117-21b8686b056a" width="200" alt="화면 8">
 <img src="https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d" width="200" alt="화면 9">
 <img src="https://github.com/user-attachments/assets/2eab5f55-1845-46b8-9fb3-1f5bbf38c343" width="200" alt="화면 결제 화면">
+<img src="https://github.com/user-attachments/assets/740ac551-4beb-42b2-a353-a2e50c197b59" width="200" alt="알림 화면">
 </div>
-
 
 ## 설치 및 실행 방법
 > 배포: https://guardian.givendragon.site/
