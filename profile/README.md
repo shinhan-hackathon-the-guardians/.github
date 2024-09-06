@@ -46,6 +46,7 @@
 - **Backend**: Java, Spring Boot, JPA, Spring Security
 - **Database**: MySQL, Redis, MongoDB
 - **Notification**: Firebase Cloud Messaging (FCM)
+- **Infrastructure**: NginX, Docker, Jenkins
 
 ## 아키텍처
 ![image](https://github.com/user-attachments/assets/d1cd61df-fd93-49bc-9918-b8f0fa96ee4c)
@@ -55,16 +56,16 @@
 > 사용자 친화적 디자인을 고려하여 설계하였습니다.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/622f254f-dc90-4c0b-8d76-10ef9a2ba37f" width="200" alt="스플래시 화면">
-<img src="https://github.com/user-attachments/assets/58511b06-8820-4f5c-a3f3-bd835e4ff92f" width="200" alt="화면 3">
-<img src="https://github.com/user-attachments/assets/b929480a-3535-49dd-adcb-0ac5d69b90de" width="200" alt="화면 4">
-<img src="https://github.com/user-attachments/assets/85cd8744-00bd-4054-a1f9-ba71d300e709" width="200" alt="그룹원 추가 화면">
-<img src="https://github.com/user-attachments/assets/a87f4c49-9df0-477c-973a-dbf6bd4f5e84" width="200" alt="화면 6">
-<img src="https://github.com/user-attachments/assets/16b05da3-026b-4bd1-bbe0-4023e1e1b37b" width="200" alt="화면 7">
-<img src="https://github.com/user-attachments/assets/cabea35e-8514-4077-a117-21b8686b056a" width="200" alt="화면 8">
-<img src="https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d" width="200" alt="화면 9">
-<img src="https://github.com/user-attachments/assets/2eab5f55-1845-46b8-9fb3-1f5bbf38c343" width="200" alt="화면 결제 화면">
-<img src="https://github.com/user-attachments/assets/740ac551-4beb-42b2-a353-a2e50c197b59" width="200" alt="알림 화면">
+<img src="https://github.com/user-attachments/assets/622f254f-dc90-4c0b-8d76-10ef9a2ba37f" height="400" alt="스플래시 화면">
+<img src="https://github.com/user-attachments/assets/58511b06-8820-4f5c-a3f3-bd835e4ff92f" height="400" alt="화면 3">
+<img src="https://github.com/user-attachments/assets/b929480a-3535-49dd-adcb-0ac5d69b90de" height="400" alt="화면 4">
+<img src="https://github.com/user-attachments/assets/85cd8744-00bd-4054-a1f9-ba71d300e709" height="400" alt="그룹원 추가 화면">
+<img src="https://github.com/user-attachments/assets/a87f4c49-9df0-477c-973a-dbf6bd4f5e84" height="400" alt="화면 6">
+<img src="https://github.com/user-attachments/assets/16b05da3-026b-4bd1-bbe0-4023e1e1b37b" height="400" alt="화면 7">
+<img src="https://github.com/user-attachments/assets/cabea35e-8514-4077-a117-21b8686b056a" height="400" alt="화면 8">
+<img src="https://github.com/user-attachments/assets/b71c768a-49cc-4fcf-8faa-85fc1586426d" height="400" alt="화면 9">
+<img src="https://github.com/user-attachments/assets/740ac551-4beb-42b2-a353-a2e50c197b59" height="400" alt="알림 화면">
+<img src="https://github.com/user-attachments/assets/2eab5f55-1845-46b8-9fb3-1f5bbf38c343" height="400" alt="화면 결제 화면">
 </div>
 
 ## 설치 및 실행 방법
