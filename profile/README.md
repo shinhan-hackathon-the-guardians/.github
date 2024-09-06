@@ -42,13 +42,14 @@
 
 ## 기술 스택
 
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Java, Spring Boot, JPA, Spring Security
+- **Frontend**: TypeScript, React, Tailwind CSS, Zustand
+- **Backend**: Java, Spring Boot, Spring Security, JPA 
 - **Database**: MySQL, Redis, MongoDB
 - **Notification**: Firebase Cloud Messaging (FCM)
 - **Infrastructure**: NginX, Docker, Jenkins
+- **Communication**: Figma, Notion, Discord
 
-## 아키텍처
+## Architecture
 ![image](https://github.com/user-attachments/assets/d1cd61df-fd93-49bc-9918-b8f0fa96ee4c)
 
 
@@ -67,6 +68,10 @@
 <img src="https://github.com/user-attachments/assets/740ac551-4beb-42b2-a353-a2e50c197b59" height="400" alt="알림 화면">
 <img src="https://github.com/user-attachments/assets/2eab5f55-1845-46b8-9fb3-1f5bbf38c343" height="400" alt="화면 결제 화면">
 </div>
+
+## Flow Chart
+![image](https://github.com/user-attachments/assets/ccfc7cfa-24b3-4348-90a8-0281c09a9961)
+
 
 ## 설치 및 실행 방법
 
