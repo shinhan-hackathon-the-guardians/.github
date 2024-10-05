@@ -50,6 +50,8 @@
 - **Communication**: Figma, Notion, Discord
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/580c9c87-a92d-4992-9cd5-7a78d40e8e9b)
+
 ![image](https://github.com/user-attachments/assets/d1cd61df-fd93-49bc-9918-b8f0fa96ee4c)
 
 
